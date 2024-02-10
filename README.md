@@ -1,0 +1,1 @@
+"# alert-types-in-cypress" 
